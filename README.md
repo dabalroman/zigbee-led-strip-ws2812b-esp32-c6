@@ -6,8 +6,8 @@ it also doubles as a Zigbee range extender.
 
 **Works great with HomeAssistant.**
 
-> [!warn]
-> ArduinoZigbee lib does not support animations on comm-layer. If you want animations, use WLED or EspHome.
+> [!warning]
+> Arduino Zigbee does not support animations on comm-layer. If you want animations, use WLED or EspHome.
 
 ## Features
 
