@@ -1,0 +1,27 @@
+# Arduino build artefacts
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.uf2
+
+# Arduino IDE / arduino-cli local cache
+.cache/
+.arduinoIDE-unsaved*
+*.tmp
+
+# Local-only config / overrides
+.vscode/
+.idea/
+*.code-workspace
+sketch.json
+.arduino-ide/
+
+# Claude / agent scratch
+.claude/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
