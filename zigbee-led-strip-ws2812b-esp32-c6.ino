@@ -30,9 +30,9 @@
 #include "Zigbee.h"
 
 // ---------- Hardware / behavior config ----------
-#define LED_PIN              2
+#define LED_PIN              6
 #define NUM_LEDS             97
-#define LED_CHIPSET          WS2812B
+#define LED_CHIPSET          WS2811
 #define LED_COLOR_ORDER      GRB
 #define MAX_MILLIAMPS        1600          // safety cap; tune to your PSU
 
